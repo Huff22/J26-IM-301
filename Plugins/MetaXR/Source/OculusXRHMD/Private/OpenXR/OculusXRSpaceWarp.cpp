@@ -1,6 +1,7 @@
 // Copyright (c) Meta Platforms, Inc. and affiliates.
 
 #include "OculusXRSpaceWarp.h"
+#include <limits>
 #include "IOpenXRHMD.h"
 #include "IOpenXRHMDModule.h"
 #include "IXRTrackingSystem.h"
@@ -132,7 +133,7 @@ namespace OculusXR
 		SpaceWarpLayerInfo->layerFlags = 0;
 		SpaceWarpLayerInfo->appSpaceDeltaPose = ToXrPose(TrackingSpaceDeltaPose);
 		SpaceWarpLayerInfo->farZ = GNearClippingPlane / 100.f;
-		SpaceWarpLayerInfo->nearZ = INFINITY;
+		SpaceWarpLayerInfo->nearZ = std::numeric_limits<float>::infinity();
 		SpaceWarpLayerInfo->minDepth = 0.0f;
 		SpaceWarpLayerInfo->maxDepth = 1.0f;
 
