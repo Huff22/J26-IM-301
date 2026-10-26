@@ -1,0 +1,34 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRScene.cpp.obj": [
+			"OculusXRRoomLayoutManagerComponent.gen.cpp.obj",
+			"OculusXRScene.init.gen.cpp.obj",
+			"OculusXRSceneActor.gen.cpp.obj",
+			"OculusXRSceneAnchorComponent.gen.cpp.obj",
+			"OculusXRSceneComponents.gen.cpp.obj",
+			"OculusXRSceneEventDelegates.gen.cpp.obj",
+			"OculusXRSceneFunctionLibrary.gen.cpp.obj",
+			"OculusXRSceneGlobalMeshComponent.gen.cpp.obj",
+			"OculusXRSceneLatentActions.gen.cpp.obj",
+			"OculusXRSceneSubsystem.gen.cpp.obj",
+			"OculusXRSceneTypes.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"OculusXRRoomLayoutManagerComponent.cpp.obj",
+			"OculusXRScene.cpp.obj",
+			"OculusXRSceneActor.cpp.obj",
+			"OculusXRSceneAnchorComponent.cpp.obj",
+			"OculusXRSceneComponents.cpp.obj",
+			"OculusXRSceneDelegates.cpp.obj",
+			"OculusXRSceneEventHandling.cpp.obj",
+			"OculusXRSceneFunctionLibrary.cpp.obj",
+			"OculusXRSceneFunctionsOpenXR.cpp.obj",
+			"OculusXRSceneFunctionsOVR.cpp.obj",
+			"OculusXRSceneGlobalMeshComponent.cpp.obj",
+			"OculusXRSceneLatentActions.cpp.obj",
+			"OculusXRSceneModule.cpp.obj",
+			"OculusXRSceneSubsystem.cpp.obj",
+			"OculusXRSceneXR.cpp.obj"
+		]
+	}
+}

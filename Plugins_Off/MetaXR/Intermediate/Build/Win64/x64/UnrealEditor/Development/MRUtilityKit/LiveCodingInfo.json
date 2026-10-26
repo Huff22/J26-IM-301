@@ -1,0 +1,55 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MRUtilityKit.1.cpp.obj": [
+			"MRUKPassthroughCameraAccess.gen.cpp.obj",
+			"MRUtilityKit.gen.cpp.obj",
+			"MRUtilityKit.init.gen.cpp.obj",
+			"MRUtilityKitAnchor.gen.cpp.obj",
+			"MRUtilityKitAnchorActorSpawner.gen.cpp.obj"
+		],
+		"Module.MRUtilityKit.2.cpp.obj": [
+			"MRUtilityKitBlobShadowComponent.gen.cpp.obj",
+			"MRUtilityKitBPLibrary.gen.cpp.obj",
+			"MRUtilityKitDebugComponent.gen.cpp.obj",
+			"MRUtilityKitDestructibleMesh.gen.cpp.obj",
+			"MRUtilityKitDistanceMapGenerator.gen.cpp.obj",
+			"MRUtilityKitGridSliceResizer.gen.cpp.obj",
+			"MRUtilityKitGuardian.gen.cpp.obj",
+			"MRUtilityKitGuardianSpawner.gen.cpp.obj",
+			"MRUtilityKitLightDispatcher.gen.cpp.obj"
+		],
+		"Module.MRUtilityKit.3.cpp.obj": [
+			"MRUtilityKitPositionGenerator.gen.cpp.obj",
+			"MRUtilityKitRoom.gen.cpp.obj",
+			"MRUtilityKitSceneDataProvider.gen.cpp.obj",
+			"MRUtilityKitSeatsComponent.gen.cpp.obj",
+			"MRUtilityKitSubsystem.gen.cpp.obj"
+		],
+		"Module.MRUtilityKit.4.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"MRUKPassthroughCameraAccess.cpp.obj",
+			"MRUtilityKit.cpp.obj",
+			"MRUtilityKitAnchor.cpp.obj",
+			"MRUtilityKitAnchorActorSpawner.cpp.obj",
+			"MRUtilityKitBlobShadowComponent.cpp.obj",
+			"MRUtilityKitBPLibrary.cpp.obj",
+			"MRUtilityKitDebugComponent.cpp.obj",
+			"MRUtilityKitDestructibleMesh.cpp.obj",
+			"MRUtilityKitDistanceMapGenerator.cpp.obj",
+			"MRUtilityKitGeometry.cpp.obj",
+			"MRUtilityKitGridSliceResizer.cpp.obj",
+			"MRUtilityKitGuardian.cpp.obj",
+			"MRUtilityKitGuardianSpawner.cpp.obj",
+			"MRUtilityKitLightDispatcher.cpp.obj",
+			"MRUtilityKitOpenXrExtensionPlugin.cpp.obj",
+			"MRUtilityKitPositionGenerator.cpp.obj",
+			"MRUtilityKitRoom.cpp.obj",
+			"MRUtilityKitSceneDataProvider.cpp.obj",
+			"MRUtilityKitSeatsComponent.cpp.obj",
+			"MRUtilityKitShared.cpp.obj",
+			"MRUtilityKitSharedHelper.cpp.obj",
+			"MRUtilityKitSubsystem.cpp.obj"
+		]
+	}
+}

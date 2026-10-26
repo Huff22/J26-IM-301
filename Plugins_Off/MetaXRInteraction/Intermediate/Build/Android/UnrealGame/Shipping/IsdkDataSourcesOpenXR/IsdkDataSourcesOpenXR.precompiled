@@ -1,0 +1,32 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\Module.IsdkDataSourcesOpenXR.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\Module.IsdkDataSourcesOpenXR.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\Module.IsdkDataSourcesOpenXR.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\Module.IsdkDataSourcesOpenXR.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkDataSourcesOpenXR.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkDataSourcesOpenXRSubsystem.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRControllerDataSource.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRHandDataSource.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRHmdDataSource.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkOpenXRHelper.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkDataSourcesOpenXR.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkDataSourcesOpenXRSubsystem.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRControllerDataSource.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRHandDataSource.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRHmdDataSource.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkOpenXRHelper.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkDataSourcesOpenXR.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkDataSourcesOpenXRSubsystem.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRControllerDataSource.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRHandDataSource.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRHmdDataSource.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkOpenXRHelper.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkDataSourcesOpenXR.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkDataSourcesOpenXRSubsystem.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRControllerDataSource.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRHandDataSource.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRHmdDataSource.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\IsdkDataSourcesOpenXR\\IsdkOpenXRHelper.cpp.o"
+	]
+}

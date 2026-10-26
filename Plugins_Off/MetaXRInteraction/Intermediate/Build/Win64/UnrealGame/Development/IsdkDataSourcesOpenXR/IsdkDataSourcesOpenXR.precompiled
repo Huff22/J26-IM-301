@@ -1,0 +1,11 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\IsdkDataSourcesOpenXR\\Module.IsdkDataSourcesOpenXR.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\IsdkDataSourcesOpenXR\\IsdkDataSourcesOpenXR.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\IsdkDataSourcesOpenXR\\IsdkDataSourcesOpenXRSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRControllerDataSource.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRHandDataSource.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\IsdkDataSourcesOpenXR\\IsdkFromOpenXRHmdDataSource.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\IsdkDataSourcesOpenXR\\IsdkOpenXRHelper.cpp.obj"
+	]
+}

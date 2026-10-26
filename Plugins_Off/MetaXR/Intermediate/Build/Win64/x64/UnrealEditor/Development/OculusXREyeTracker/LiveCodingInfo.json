@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXREyeTracker.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"OculusXREyeTracker.cpp.obj"
+		]
+	}
+}

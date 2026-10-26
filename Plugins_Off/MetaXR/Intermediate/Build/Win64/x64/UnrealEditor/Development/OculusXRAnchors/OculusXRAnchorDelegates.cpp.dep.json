@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxranchors\\private\\oculusxranchordelegates.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\3d vfx\\projects\\unreal\\synapse\\intermediate\\build\\win64\\x64\\synapseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxranchors\\definitions.oculusxranchors.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxranchors\\public\\oculusxranchordelegates.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxranchors\\public\\oculusxranchortypes.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\memory",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxranchors\\uht\\oculusxranchortypes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

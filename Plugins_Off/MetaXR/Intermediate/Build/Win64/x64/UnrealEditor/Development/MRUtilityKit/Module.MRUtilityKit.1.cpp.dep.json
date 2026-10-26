@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mrutilitykit\\module.mrutilitykit.1.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\3d vfx\\projects\\unreal\\synapse\\intermediate\\build\\win64\\x64\\synapseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mrutilitykit\\definitions.mrutilitykit.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykit\\uht\\mrukpassthroughcameraaccess.gen.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\mrutilitykit\\public\\mrukpassthroughcameraaccess.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykit\\uht\\mrukpassthroughcameraaccess.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykit\\uht\\mrutilitykit.gen.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\mrutilitykit\\public\\mrutilitykit.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykit\\uht\\mrutilitykit.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykit\\uht\\mrutilitykit.init.gen.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykit\\uht\\mrutilitykitanchor.gen.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\mrutilitykit\\public\\mrutilitykitanchor.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\mrutilitykit\\public\\mrutilitykitanchoractorspawner.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykit\\uht\\mrutilitykitanchoractorspawner.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxranchors\\public\\oculusxranchortypes.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\memory",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxranchors\\uht\\oculusxranchortypes.generated.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\plugins\\runtime\\proceduralmeshcomponent\\source\\proceduralmeshcomponent\\public\\proceduralmeshcomponent.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\plugins\\runtime\\proceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\proceduralmeshcomponent\\uht\\proceduralmeshcomponent.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykit\\uht\\mrutilitykitanchor.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykit\\uht\\mrutilitykitanchoractorspawner.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,31 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OculusXRMovement.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/3D VFX/Projects/Unreal/Synapse/Intermediate/Build/Win64/x64/SynapseEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/Module.OculusXRMovement.gen.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/LiveLinkOculusXRMovementSourceFactory.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRBodyTrackingComponent.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXREyeTrackingComponent.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRFaceTrackingComponent.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRLiveLinkRetargetBodyAsset.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRLiveLinkRetargetFaceAsset.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRLiveLinkRetargetFaceVisemesAsset.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRMorphTargetsController.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRMovement.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRMovementFunctionLibrary.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRMovementFunctionsOpenXR.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRMovementFunctionsOVR.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRMovementLiveLink.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRMovementModule.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRMovementTypes.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRBodyTrackingXR.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXREyeTrackingXR.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/OculusXRFaceTrackingXR.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/PerModuleInline.gen.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/Default.rc2.res"
+/OUT:"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRMovement/UnrealEditor-OculusXRMovement.lib"

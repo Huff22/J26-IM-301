@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRUncookedOnly.cpp.obj": [
+			"BPNode_InitializePersistentPassthrough.gen.cpp.obj",
+			"OculusXRUncookedOnly.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"BPNode_InitializePersistentPassthrough.cpp.obj",
+			"OculusXRUncookedOnlyModule.cpp.obj"
+		]
+	}
+}

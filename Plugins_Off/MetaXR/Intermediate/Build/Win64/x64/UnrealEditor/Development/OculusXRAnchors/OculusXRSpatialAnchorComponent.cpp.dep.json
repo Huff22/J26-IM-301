@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxranchors\\private\\oculusxrspatialanchorcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\3d vfx\\projects\\unreal\\synapse\\intermediate\\build\\win64\\x64\\synapseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxranchors\\definitions.oculusxranchors.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxranchors\\public\\oculusxrspatialanchorcomponent.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxranchors\\public\\oculusxranchorcomponent.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxranchors\\public\\oculusxranchortypes.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\memory",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxranchors\\uht\\oculusxranchortypes.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxranchors\\uht\\oculusxranchorcomponent.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxranchors\\public\\oculusxranchors.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxranchors\\public\\oculusxranchorsrequests.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxrasyncrequest\\public\\oculusxrasyncrequestsystem.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxrasyncrequest\\public\\oculusxrasyncrequestbase.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxrasyncrequest\\public\\oculusxrasyncrequest.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxrasyncrequest\\public\\ioculusxrasyncrequestmodule.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxranchors\\uht\\oculusxrspatialanchorcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

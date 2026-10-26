@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MRUtilityKitPcaEditor.cpp.obj": [
+			"MRUKPassthroughCameraAccessFactory.gen.cpp.obj",
+			"MRUtilityKitPcaEditor.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"MRUKPassthroughCameraAccessActions.cpp.obj",
+			"MRUKPassthroughCameraAccessFactory.cpp.obj",
+			"MRUtilityKitPcaEditor.cpp.obj"
+		]
+	}
+}

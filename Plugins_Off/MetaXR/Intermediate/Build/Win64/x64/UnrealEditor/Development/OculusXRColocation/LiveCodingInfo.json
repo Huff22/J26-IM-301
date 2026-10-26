@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRColocation.cpp.obj": [
+			"OculusXRColocation.init.gen.cpp.obj",
+			"OculusXRColocationFunctionLibrary.gen.cpp.obj",
+			"OculusXRColocationLatentActions.gen.cpp.obj",
+			"OculusXRColocationSession.gen.cpp.obj",
+			"OculusXRColocationSubsystem.gen.cpp.obj",
+			"OculusXRColocationTypes.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"OculusXRColocation.cpp.obj",
+			"OculusXRColocationEventDelegates.cpp.obj",
+			"OculusXRColocationEventPolling.cpp.obj",
+			"OculusXRColocationFunctionLibrary.cpp.obj",
+			"OculusXRColocationFunctions.cpp.obj",
+			"OculusXRColocationFunctionsOpenXR.cpp.obj",
+			"OculusXRColocationFunctionsOVR.cpp.obj",
+			"OculusXRColocationLatentActions.cpp.obj",
+			"OculusXRColocationModule.cpp.obj",
+			"OculusXRColocationRequests.cpp.obj",
+			"OculusXRColocationSubsystem.cpp.obj",
+			"OculusXRColocationUtil.cpp.obj",
+			"OculusXRColocationXR.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXREditor.cpp.obj": [
+			"OculusXREditor.init.gen.cpp.obj",
+			"OculusXREditorSettings.gen.cpp.obj",
+			"OculusXRMovementAssetsFactories.gen.cpp.obj",
+			"OculusXRPassthroughColorLutAsset.gen.cpp.obj",
+			"OculusXRPlatformToolSettings.gen.cpp.obj",
+			"OculusXRSurveySettings.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"OculusXRBuildAnalytics.cpp.obj",
+			"OculusXREditorModule.cpp.obj",
+			"OculusXREditorSettings.cpp.obj",
+			"OculusXRMovementAssetsFactories.cpp.obj",
+			"OculusXROSVersionPropertyCustomization.cpp.obj",
+			"OculusXRPassthroughColorLutAsset.cpp.obj",
+			"OculusXRPlatformToolSettings.cpp.obj",
+			"OculusXRPlatformToolWidget.cpp.obj",
+			"OculusXRPrivacyNotification.cpp.obj",
+			"OculusXRPTLayerComponentDetailsCustomization.cpp.obj",
+			"OculusXRSettingsToggle.cpp.obj",
+			"OculusXRSurveyNotification.cpp.obj",
+			"OculusXRSurveySettings.cpp.obj",
+			"OculusXRToolCommands.cpp.obj",
+			"OculusXRToolStyle.cpp.obj"
+		]
+	}
+}

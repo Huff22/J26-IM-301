@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OculusXREditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/3D VFX/Projects/Unreal/Synapse/Intermediate/Build/Win64/x64/SynapseEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXREditor/Module.OculusXREditor.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXREditor/Default.rc2.res"
+/OUT:"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXREditor/UnrealEditor-OculusXREditor.lib"

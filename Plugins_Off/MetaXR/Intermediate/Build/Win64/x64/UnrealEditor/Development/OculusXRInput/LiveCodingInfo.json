@@ -1,0 +1,32 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRInput.cpp.obj": [
+			"OculusXRControllerComponent.gen.cpp.obj",
+			"OculusXRControllerLegacyPoseTransformComponent.gen.cpp.obj",
+			"OculusXRHandComponent.gen.cpp.obj",
+			"OculusXRInput.init.gen.cpp.obj",
+			"OculusXRInputFunctionLibrary.gen.cpp.obj",
+			"OculusXRLegacyPoseTransformComponent.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"OculusXRControllerComponent.cpp.obj",
+			"OculusXRControllerLegacyPoseTransformComponent.cpp.obj",
+			"OculusXRControllerTracking.cpp.obj",
+			"OculusXRHandComponent.cpp.obj",
+			"OculusXRHandTracking.cpp.obj",
+			"OculusXRInput.cpp.obj",
+			"OculusXRInputExtensionPlugin.cpp.obj",
+			"OculusXRInputFunctionLibrary.cpp.obj",
+			"OculusXRInputHandTrackingExtensionPlugin.cpp.obj",
+			"OculusXRInputHapticsExtensionPlugin.cpp.obj",
+			"OculusXRInputModule.cpp.obj",
+			"OculusXRInputOpenXR.cpp.obj",
+			"OculusXRInputOVR.cpp.obj",
+			"OculusXRInputXRFunctions.cpp.obj",
+			"OculusXRLegacyPoseTransformComponent.cpp.obj",
+			"OculusXRSimultaneousHandsAndControllersExtensionPlugin.cpp.obj",
+			"OculusXRTouchPlusInputExtensionPlugin.cpp.obj",
+			"OculusXRTouchProInputExtensionPlugin.cpp.obj"
+		]
+	}
+}

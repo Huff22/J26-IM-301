@@ -1,0 +1,31 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OculusXRAnchors.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/3D VFX/Projects/Unreal/Synapse/Intermediate/Build/Win64/x64/SynapseEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/Module.OculusXRAnchors.gen.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorBPFunctionLibrary.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorComponent.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorComponents.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorDelegates.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorFunctionsOpenXR.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorFunctionsOVR.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorLatentActions.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorManager.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorRequests.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchors.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorsEventPolling.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorsModule.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorsUtil.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorTypes.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorTypesPrivate.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRSpatialAnchorComponent.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRSpatialAnchorManager.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/OculusXRAnchorsXR.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/PerModuleInline.gen.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/Default.rc2.res"
+/OUT:"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRAnchors/UnrealEditor-OculusXRAnchors.lib"

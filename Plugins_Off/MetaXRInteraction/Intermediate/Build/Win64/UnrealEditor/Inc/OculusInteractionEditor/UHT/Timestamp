@@ -1,0 +1,11 @@
+D:\MetaIsdk-release\HostProject\Plugins\OculusInteraction\Source\OculusInteractionEditor\Public\IsdkHandPoseDataFactory.h
+D:\MetaIsdk-release\HostProject\Plugins\OculusInteraction\Source\OculusInteractionEditor\Public\IsdkHandPoseDetectionProfileFactory.h
+D:\MetaIsdk-release\HostProject\Plugins\OculusInteraction\Source\OculusInteractionEditor\Private\EditorTelemetry\IsdkTelemetryPrivacySettings.h
+D:\MetaIsdk-release\HostProject\Plugins\OculusInteraction\Source\OculusInteractionEditor\Private\Tests\IsdkTestConditionalComponentIsActive.h
+D:\MetaIsdk-release\HostProject\Plugins\OculusInteraction\Source\OculusInteractionEditor\Private\Tests\IsdkTestDataSources.h
+D:\MetaIsdk-release\HostProject\Plugins\OculusInteraction\Source\OculusInteractionEditor\Private\Tests\IsdkTestGrabInteraction.h
+D:\MetaIsdk-release\HostProject\Plugins\OculusInteraction\Source\OculusInteractionEditor\Private\Tests\IsdkTestFakes.h
+D:\MetaIsdk-release\HostProject\Plugins\OculusInteraction\Source\OculusInteractionEditor\Private\Tests\IsdkTestHandPoseDetection.h
+D:\MetaIsdk-release\HostProject\Plugins\OculusInteraction\Source\OculusInteractionEditor\Private\Tests\IsdkTestPokeInteraction.h
+D:\MetaIsdk-release\HostProject\Plugins\OculusInteraction\Source\OculusInteractionEditor\Private\Tests\IsdkTestRayInteraction.h
+D:\MetaIsdk-release\HostProject\Plugins\OculusInteraction\Source\OculusInteractionEditor\Private\Tests\IsdkTestRigComponents.h

@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxrhmd\\module.oculusxrhmd.1.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\3d vfx\\projects\\unreal\\synapse\\intermediate\\build\\win64\\x64\\synapseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxrhmd\\definitions.oculusxrhmd.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxreventcomponent.gen.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxreventcomponent.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxreventcomponent.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrfunctionlibrary.gen.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrfunctionlibrary.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrhmdtypes.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\misc\\engineversioncomparison.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmdtypes.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxrhmd\\public\\ioculusxrhmdmodule.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\runtime\\headmounteddisplay\\public\\iheadmounteddisplaymodule.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\runtime\\headmounteddisplay\\public\\headmounteddisplaytypes.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\imotioncontroller.generated.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\headmounteddisplaytypes.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrfunctionlibrary.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmd.init.gen.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmdruntimesettings.gen.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrhmdruntimesettings.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrosversions.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrosversions.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmdruntimesettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

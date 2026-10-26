@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mrutilitykitpcaeditor\\module.mrutilitykitpcaeditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\3d vfx\\projects\\unreal\\synapse\\intermediate\\build\\win64\\x64\\synapseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mrutilitykitpcaeditor\\definitions.mrutilitykitpcaeditor.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykitpcaeditor\\uht\\mrukpassthroughcameraaccessfactory.gen.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\mrutilitykitpcaeditor\\public\\mrukpassthroughcameraaccessfactory.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykitpcaeditor\\uht\\mrukpassthroughcameraaccessfactory.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykitpcaeditor\\uht\\mrutilitykitpcaeditor.init.gen.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mrutilitykitpcaeditor\\permoduleinline.gen.cpp",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\mrutilitykitpcaeditor\\private\\mrukpassthroughcameraaccessactions.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\mrutilitykitpcaeditor\\public\\mrukpassthroughcameraaccessactions.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\developer\\assettools\\public\\assettypeactions_base.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\developer\\assettools\\public\\iassettools.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\developer\\assettools\\public\\assettypecategories.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\developer\\assettools\\public\\iassettypeactions.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\developer\\merge\\public\\merge.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailmanager.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailrenderer.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailrenderer.generated.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailmanager.generated.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\editor\\unrealed\\public\\automatedassetimportdata.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\automatedassetimportdata.generated.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assettools\\uht\\iassettools.generated.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\developer\\assettools\\public\\assettoolsmodule.h",
+            "d:\\games\\epic games\\ue_5.6\\engine\\source\\editor\\unrealed\\public\\toolkits\\simpleasseteditor.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\mrutilitykit\\public\\mrukpassthroughcameraaccess.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\mrutilitykit\\uht\\mrukpassthroughcameraaccess.generated.h",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\mrutilitykitpcaeditor\\private\\mrukpassthroughcameraaccessfactory.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\mrutilitykitpcaeditor\\private\\mrutilitykitpcaeditor.cpp",
+            "d:\\3d vfx\\projects\\unreal\\synapse\\plugins\\metaxr\\source\\mrutilitykitpcaeditor\\public\\mrutilitykitpcaeditor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

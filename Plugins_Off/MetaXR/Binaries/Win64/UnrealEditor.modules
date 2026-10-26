@@ -1,0 +1,24 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"MRUtilityKit": "UnrealEditor-MRUtilityKit.dll",
+		"MRUtilityKitEditor": "UnrealEditor-MRUtilityKitEditor.dll",
+		"MRUtilityKitPcaEditor": "UnrealEditor-MRUtilityKitPcaEditor.dll",
+		"OculusXRAnchors": "UnrealEditor-OculusXRAnchors.dll",
+		"OculusXRAsyncRequest": "UnrealEditor-OculusXRAsyncRequest.dll",
+		"OculusXRColocation": "UnrealEditor-OculusXRColocation.dll",
+		"OculusXREditor": "UnrealEditor-OculusXREditor.dll",
+		"OculusXREyeTracker": "UnrealEditor-OculusXREyeTracker.dll",
+		"OculusXRHMD": "UnrealEditor-OculusXRHMD.dll",
+		"OculusXRInput": "UnrealEditor-OculusXRInput.dll",
+		"OculusXRMR": "UnrealEditor-OculusXRMR.dll",
+		"OculusXRMovement": "UnrealEditor-OculusXRMovement.dll",
+		"OculusXRPassthrough": "UnrealEditor-OculusXRPassthrough.dll",
+		"OculusXRProjectSetupTool": "UnrealEditor-OculusXRProjectSetupTool.dll",
+		"OculusXRScene": "UnrealEditor-OculusXRScene.dll",
+		"OculusXRSoftwareOcclusion": "UnrealEditor-OculusXRSoftwareOcclusion.dll",
+		"OculusXRTelemetry": "UnrealEditor-OculusXRTelemetry.dll",
+		"OculusXRUncookedOnly": "UnrealEditor-OculusXRUncookedOnly.dll"
+	}
+}

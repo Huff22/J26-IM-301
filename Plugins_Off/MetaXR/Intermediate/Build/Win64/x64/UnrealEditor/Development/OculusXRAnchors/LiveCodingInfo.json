@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRAnchors.gen.cpp.obj": [
+			"OculusXRAnchorBPFunctionLibrary.gen.cpp.obj",
+			"OculusXRAnchorComponent.gen.cpp.obj",
+			"OculusXRAnchorComponents.gen.cpp.obj",
+			"OculusXRAnchorLatentActions.gen.cpp.obj",
+			"OculusXRAnchors.init.gen.cpp.obj",
+			"OculusXRAnchorTypes.gen.cpp.obj",
+			"OculusXRSpatialAnchorComponent.gen.cpp.obj"
+		]
+	}
+}

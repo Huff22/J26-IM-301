@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRProjectSetupTool.cpp.obj": [
+			"OculusXRProjectSetupTool.init.gen.cpp.obj",
+			"OculusXRPSTSettings.gen.cpp.obj",
+			"OculusXRRuleProcessorSubsystem.gen.cpp.obj",
+			"OculusXRSetupRule.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"OculusXRProjectSetupToolModule.cpp.obj",
+			"OculusXRRuleProcessorSubsystem.cpp.obj",
+			"OculusXRSetupRule.cpp.obj",
+			"OculusXRAnchorsRules.cpp.obj",
+			"OculusXRCompatibilityRules.cpp.obj",
+			"OculusXRMovementRules.cpp.obj",
+			"OculusXRPassthroughRules.cpp.obj",
+			"OculusXRPluginRules.cpp.obj",
+			"OculusXRRenderingRules.cpp.obj",
+			"OculusXRProjectSetupTool.spec.cpp.obj",
+			"OculusXRProjectSetupToolWidget.cpp.obj",
+			"OculusXRProjectTutorialWidget.cpp.obj",
+			"OculusXRStatusBarWidget.cpp.obj"
+		]
+	}
+}

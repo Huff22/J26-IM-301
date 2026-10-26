@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRTelemetry.gen.cpp.obj": [
+			"OculusXRTelemetry.init.gen.cpp.obj",
+			"OculusXRTelemetryPrivacySettings.gen.cpp.obj"
+		]
+	}
+}

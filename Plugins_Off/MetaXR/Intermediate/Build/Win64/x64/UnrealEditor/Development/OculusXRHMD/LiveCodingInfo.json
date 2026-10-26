@@ -1,0 +1,71 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRHMD.1.cpp.obj": [
+			"OculusXREventComponent.gen.cpp.obj",
+			"OculusXRFunctionLibrary.gen.cpp.obj",
+			"OculusXRHMD.init.gen.cpp.obj",
+			"OculusXRHMDRuntimeSettings.gen.cpp.obj"
+		],
+		"Module.OculusXRHMD.2.cpp.obj": [
+			"OculusXRHMDTypes.gen.cpp.obj",
+			"OculusXRMultiPlayerTestingSubsystem.gen.cpp.obj",
+			"OculusXROSVersions.gen.cpp.obj",
+			"OculusXRPassthroughLayerShapes.gen.cpp.obj",
+			"OculusXRResourceHolder.gen.cpp.obj",
+			"OculusXRSceneCaptureCubemap.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"OculusXRAssetManager.cpp.obj",
+			"OculusXRDelegates.cpp.obj",
+			"OculusXREventComponent.cpp.obj",
+			"OculusXRFunctionLibrary.cpp.obj",
+			"OculusXRFunctionLibraryOpenXR.cpp.obj",
+			"OculusXRFunctionLibraryOVR.cpp.obj",
+			"OculusXRHMD.cpp.obj"
+		],
+		"Module.OculusXRHMD.3.cpp.obj": [
+			"OculusXRHMDModule.cpp.obj",
+			"OculusXRHMDPrivate.cpp.obj",
+			"OculusXRHMDRuntimeSettings.cpp.obj",
+			"OculusXRHMD_ConsoleCommands.cpp.obj",
+			"OculusXRHMD_CustomPresent.cpp.obj",
+			"OculusXRHMD_CustomPresent_D3D11.cpp.obj",
+			"OculusXRHMD_CustomPresent_D3D12.cpp.obj",
+			"OculusXRHMD_CustomPresent_Vulkan.cpp.obj",
+			"OculusXRHMD_DeferredDeletionQueue.cpp.obj",
+			"OculusXRHMD_DynamicResolutionState.cpp.obj",
+			"OculusXRHMD_FoveatedRendering.cpp.obj",
+			"OculusXRHMD_GameFrame.cpp.obj",
+			"OculusXRHMD_Layer.cpp.obj",
+			"OculusXRHMD_Settings.cpp.obj",
+			"OculusXRHMD_SpectatorScreenController.cpp.obj",
+			"OculusXRHMD_Splash.cpp.obj",
+			"OculusXRHMD_StressTester.cpp.obj",
+			"OculusXRHMD_VulkanExtensions.cpp.obj",
+			"OculusXRMultiPlayerTestingSubsystem.cpp.obj",
+			"OculusXROSVersions.cpp.obj",
+			"OculusXRPassthroughLayerShapes.cpp.obj",
+			"OculusXRPluginWrapper.cpp.obj",
+			"OculusXRResourceHolder.cpp.obj",
+			"OculusXRSceneCaptureCubemap.cpp.obj",
+			"OculusXRSimulator.cpp.obj",
+			"OculusXRStereoLayersFlagsSupplier.cpp.obj",
+			"OculusXRSyntheticEnvironmentServer.cpp.obj",
+			"OculusXRCoreExtensionPlugin.cpp.obj",
+			"OculusXREnvironmentDepthExtensionPlugin.cpp.obj",
+			"OculusXRExtensionPluginManager.cpp.obj",
+			"OculusXRGuardianExtensionPlugin.cpp.obj",
+			"OculusXRLayerExtensionPlugin.cpp.obj",
+			"OculusXRMultiPlayerStateExtensionPlugin.cpp.obj",
+			"OculusXROpenXRDynamicResolutionState.cpp.obj",
+			"OculusXROpenXRUtilities.cpp.obj",
+			"OculusXRPerformanceExtensionPlugin.cpp.obj",
+			"OculusXRSimulatorExtensionPlugin.cpp.obj",
+			"OculusXRSpaceWarp.cpp.obj"
+		],
+		"Module.OculusXRHMD.4.cpp.obj": [
+			"OculusXRSystemInfoExtensionPlugin.cpp.obj",
+			"OculusXRXRFunctions.cpp.obj"
+		]
+	}
+}

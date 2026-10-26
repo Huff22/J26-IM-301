@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OculusXRTelemetry.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/3D VFX/Projects/Unreal/Synapse/Intermediate/Build/Win64/x64/SynapseEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRTelemetry/Module.OculusXRTelemetry.gen.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRTelemetry/OculusXRQPL.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRTelemetry/OculusXRTelemetry.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRTelemetry/OculusXRTelemetryModule.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRTelemetry/OculusXRTelemetryPrivacySettings.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRTelemetry/OculusXRTelemetryWrapper.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRTelemetry/PerModuleInline.gen.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRTelemetry/Default.rc2.res"
+/OUT:"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/OculusXRTelemetry/UnrealEditor-OculusXRTelemetry.lib"

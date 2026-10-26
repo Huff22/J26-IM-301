@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MRUtilityKit.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/3D VFX/Projects/Unreal/Synapse/Intermediate/Build/Win64/x64/SynapseEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/MRUtilityKit/Module.MRUtilityKit.1.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/MRUtilityKit/Module.MRUtilityKit.2.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/MRUtilityKit/Module.MRUtilityKit.3.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/MRUtilityKit/Module.MRUtilityKit.4.cpp.obj"
+"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/MRUtilityKit/Default.rc2.res"
+/OUT:"D:/3D VFX/Projects/Unreal/Synapse/Plugins/MetaXR/Intermediate/Build/Win64/x64/UnrealEditor/Development/MRUtilityKit/UnrealEditor-MRUtilityKit.lib"

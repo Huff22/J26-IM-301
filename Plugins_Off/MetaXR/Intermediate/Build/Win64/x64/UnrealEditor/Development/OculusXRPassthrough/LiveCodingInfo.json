@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRPassthrough.cpp.obj": [
+			"OculusXRPassthrough.init.gen.cpp.obj",
+			"OculusXRPassthroughColorLut.gen.cpp.obj",
+			"OculusXRPassthroughLayerComponent.gen.cpp.obj",
+			"OculusXRPassthroughSubsystem.gen.cpp.obj",
+			"OculusXRPersistentPassthroughInstance.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"OculusXRPassthroughColorLut.cpp.obj",
+			"OculusXRPassthroughEventHandling.cpp.obj",
+			"OculusXRPassthroughLayerComponent.cpp.obj",
+			"OculusXRPassthroughModule.cpp.obj",
+			"OculusXRPassthroughSubsystem.cpp.obj",
+			"OculusXRPassthroughXR.cpp.obj",
+			"OculusXRPassthroughXRFunctions.cpp.obj",
+			"OculusXRPersistentPassthroughInstance.cpp.obj"
+		]
+	}
+}

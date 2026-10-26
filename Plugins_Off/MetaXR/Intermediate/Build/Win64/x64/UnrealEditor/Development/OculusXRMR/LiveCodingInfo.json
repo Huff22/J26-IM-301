@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRMR.cpp.obj": [
+			"OculusXRMR.init.gen.cpp.obj",
+			"OculusXRMRFunctionLibrary.gen.cpp.obj",
+			"OculusXRMR_CastingCameraActor.gen.cpp.obj",
+			"OculusXRMR_PlaneMeshComponent.gen.cpp.obj",
+			"OculusXRMR_Settings.gen.cpp.obj",
+			"OculusXRMR_State.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"OculusXRMRFunctionLibrary.cpp.obj",
+			"OculusXRMRModule.cpp.obj",
+			"OculusXRMR_CastingCameraActor.cpp.obj",
+			"OculusXRMR_PlaneMeshComponent.cpp.obj",
+			"OculusXRMR_Settings.cpp.obj",
+			"OculusXRMR_State.cpp.obj"
+		]
+	}
+}

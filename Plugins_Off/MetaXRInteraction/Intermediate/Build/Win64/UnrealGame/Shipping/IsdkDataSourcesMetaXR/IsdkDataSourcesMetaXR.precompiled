@@ -1,0 +1,12 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\IsdkDataSourcesMetaXR\\Module.IsdkDataSourcesMetaXR.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\IsdkDataSourcesMetaXR\\IsdkDataSourcesMetaXR.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\IsdkDataSourcesMetaXR\\IsdkDataSourcesMetaXRSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\IsdkDataSourcesMetaXR\\IsdkOculusXRHelper.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\IsdkDataSourcesMetaXR\\IsdkOculusXRModuleInstance.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\IsdkDataSourcesMetaXR\\IsdkFromMetaXRControllerDataSource.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\IsdkDataSourcesMetaXR\\IsdkFromMetaXRHandDataSource.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\IsdkDataSourcesMetaXR\\IsdkFromMetaXRHmdDataSource.cpp.obj"
+	]
+}

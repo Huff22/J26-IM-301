@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRSoftwareOcclusion.cpp.obj": [
+			"OculusXRSoftwareOcclusion.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"OccluderMeshAssetUserData.cpp.obj",
+			"OculusXRSoftwareOcclusionModule.cpp.obj",
+			"SceneSoftwareOcclusion.cpp.obj",
+			"SceneSoftwareOcclusionProvider.cpp.obj"
+		]
+	}
+}

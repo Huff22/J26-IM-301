@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRAsyncRequest.cpp.obj": [
+			"OculusXRAsyncRequest.init.gen.cpp.obj",
+			"OculusXRAsyncRequestSubsystem.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"OculusXRAsyncRequestModule.cpp.obj",
+			"OculusXRAsyncRequestSubsystem.cpp.obj",
+			"OculusXRAsyncRequestSystem.cpp.obj"
+		]
+	}
+}

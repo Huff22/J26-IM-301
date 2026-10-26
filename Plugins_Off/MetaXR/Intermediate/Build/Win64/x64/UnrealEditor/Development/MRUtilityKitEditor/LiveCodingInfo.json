@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MRUtilityKitEditor.cpp.obj": [
+			"MeshActor.gen.cpp.obj",
+			"MRUtilityKitEditor.init.gen.cpp.obj",
+			"TestHelper.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"MeshActor.cpp.obj",
+			"MRUtilityKit.spec.cpp.obj",
+			"MRUtilityKitDistanceMap.spec.cpp.obj",
+			"MRUtilityKitEditor.cpp.obj",
+			"MRUtilityKitGeometry.spec.cpp.obj",
+			"MRUtilityKitGridSliceResizer.spec.cpp.obj",
+			"MRUtilityKitGridSliceResizerVisualization.cpp.obj",
+			"TestHelper.cpp.obj"
+		]
+	}
+}
